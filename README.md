@@ -13,4 +13,4 @@ node index.js
 # Usage
 /matakaki
 
-![alt text](https://github.com/man20820/telegram-cctv-bot/blob/dev/cctv/Screenshot.png?raw=true)
+![alt text](https://github.com/man20820/telegram-cctv-bot/blob/dev/cctv/Screenshots.png?raw=true)
