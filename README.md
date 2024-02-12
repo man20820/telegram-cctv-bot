@@ -6,7 +6,7 @@ This application is used to take picture of cctv (or any rtsp stream) and send i
 ```bash
 git clone git@github.com:man20820/telegram-cctv-bot.git
 npm install
-cp .env.example .env # and set your telegram bot token and chat id, also rtsp url
+cp .env.example .env # set your telegram bot token and chat id, also rtsp url
 node index.js
 ```
 
